@@ -10,7 +10,7 @@ It is actually very interesting to learn about new ways of formatting and coding
 
 Here is a picture of an example github page:
 
-!(http://dille.name/media/2016/03/Repository.png)
+<img src="http://dille.name/media/2016/03/Repository.png">
 
 Here is a link to the INLS course website ([inls-page]) where I refer to for any questions I may have.
 
