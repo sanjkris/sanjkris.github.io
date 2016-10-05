@@ -17,3 +17,10 @@ Here are some of the things that I have learned so far:
       - Altering layouts<br />
       - Branching and merging
 
+Here is a picture of the page that I have been using to edit the colors of my website:
+
+Here is a link to the INLS course website ([jekyll-docs]) where I refer to for any questions I may have.
+
+[jekyll-docs]: https://silshack.github.io/inls161fall2016/assignments/assignment2/
+
+I am excited to keep on editing this website as I learn more about coding!
