@@ -12,6 +12,10 @@ Here is a picture of an example github page:
 
 <img src="http://dille.name/media/2016/03/Repository.png">
 
+Here is a video of a YouTube tutorial for Github:
+
+var youtubeUrl = "https://www.youtube.com/watch?v=0fKg7e37bQE"
+
 Here is a link to the INLS course website ([inls-page]) where I refer to for any questions I may have.
 
 [inls-page]: https://silshack.github.io/inls161fall2016/assignments/assignment2/
