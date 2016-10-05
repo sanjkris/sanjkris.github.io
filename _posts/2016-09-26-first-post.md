@@ -19,11 +19,3 @@ Here are some of the things that I have learned so far:
       <div class="example">
         <span class="manual">FORMAT</span><br />
         <pre>---
-
-Editing style.css
-
-Creating posts
-
-Altering layouts
-
-Branching and merging
