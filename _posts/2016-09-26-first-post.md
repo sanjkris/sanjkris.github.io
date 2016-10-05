@@ -8,6 +8,14 @@ The first few days of class, I was extremely confused about how to go about usin
 
 It is actually very interesting to learn about new ways of formatting and coding my website. The more I learn, the more I am excited about this class.
 
+Here is a picture of the page that I have been using to edit the colors of my website:
+
+Here is a link to the INLS course website ([jekyll-docs]) where I refer to for any questions I may have.
+
+[jekyll-docs]: https://silshack.github.io/inls161fall2016/assignments/assignment2/
+
+I am excited to keep on editing this website as I learn more about coding!
+
 Here are some of the things that I have learned so far:
 
 <p>  <div class="manual-content">
