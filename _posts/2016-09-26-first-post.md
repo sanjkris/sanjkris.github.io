@@ -10,6 +10,16 @@ It is actually very interesting to learn about new ways of formatting and coding
 
 Here are some of the things that I have learned so far:
 
+<p>  <div class="manual-content">
+
+      - Editing style.css<br />
+      - Creating posts<br />  
+      - Altering layouts<br />
+      - Branching and merging
+      <div class="example">
+        <span class="manual">FORMAT</span><br />
+        <pre>---
+
 Editing style.css
 
 Creating posts
