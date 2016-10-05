@@ -8,7 +8,9 @@ The first few days of class, I was extremely confused about how to go about usin
 
 It is actually very interesting to learn about new ways of formatting and coding my website. The more I learn, the more I am excited about this class.
 
-Here is a picture of the page that I have been using to edit the colors of my website:
+Here is a picture of an example github page:
+
+!http://dille.name/media/2016/03/Repository.png
 
 Here is a link to the INLS course website ([inls-page]) where I refer to for any questions I may have.
 
