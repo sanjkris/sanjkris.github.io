@@ -12,6 +12,7 @@ description: INLS 161
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sanjkris.github.io" # the base hostname & protocol for your site
 twitter_username: 
+pinterest_username: sunnyk28
 github_username:  sanjkris
 
 # Build settings

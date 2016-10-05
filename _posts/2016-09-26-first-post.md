@@ -8,15 +8,15 @@ The first few days of class, I was extremely confused about how to go about usin
 
 It is actually very interesting to learn about new ways of formatting and coding my website. The more I learn, the more I am excited about this class.
 
-Here is a picture of an example github page:
+Here is a picture of an example github repository that exemplifies what one usually looks like:
 
 <img src="http://dille.name/media/2016/03/Repository.png">
 
-Here is a video of a YouTube tutorial for Github:
+Here is a video of a YouTube tutorial for Github, which was very useful for me to figure out how to use the website:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0fKg7e37bQE" frameborder="0" allowfullscreen></iframe>
 
-Here is a link to the INLS course website ([inls-page]) where I refer to for any questions I may have.
+Here is a link to the INLS course website ([inls-page]), where I refer to for any questions I may have.
 
 [inls-page]: https://silshack.github.io/inls161fall2016/assignments/assignment2/
 
