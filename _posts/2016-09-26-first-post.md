@@ -16,6 +16,4 @@ Here are some of the things that I have learned so far:
       - Creating posts<br />  
       - Altering layouts<br />
       - Branching and merging
-      <div class="example">
-        <span class="manual">FORMAT</span><br />
-        <pre>---
+
