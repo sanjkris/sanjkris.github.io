@@ -14,7 +14,7 @@ Here is a picture of an example github page:
 
 Here is a video of a YouTube tutorial for Github:
 
-var youtubeUrl = "https://www.youtube.com/watch?v=0fKg7e37bQE"
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0fKg7e37bQE" frameborder="0" allowfullscreen></iframe>
 
 Here is a link to the INLS course website ([inls-page]) where I refer to for any questions I may have.
 
