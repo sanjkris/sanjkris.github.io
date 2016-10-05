@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Times New Roman", Times, serif;
+  font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #000080;
   background-color: #DCDCDC;
   -webkit-text-size-adjust: 100%;
