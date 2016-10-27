@@ -8,30 +8,40 @@ My piece of written work that I converted from markdown to the different file ty
 
 In order to get my written work into multiple formats, I first converted the docx file that I uploaded to the workspace to markdown using the pandoc -o command. I proceeded to edit the essay in markdown, and then used the same command to convert the file to the four required document types.
 
-#Files
-Markdown
-Docx
-Odt
-Pdf
-Html
+The files that I converted to were markdown, docx, odt, pdf, and html.
 
-#Links:
-([script])
+Links:
+
+Here is a link to the script ([script]).
+
 [script]: https://github.com/inls161/assignment-3-sanjkris/blob/8df77a224c3ac9ade3f8e2d20d221d42245a7532/sanjkris-convert-docs.sh
-([pdf])
+
+Here is a link to the pdf ([pdf]).
+
 [pdf]: https://github.com/inls161/assignment-3-sanjkris/blob/be956b6d6df6a1f17dbf834ba078b6115309b113/justice.pdf
-([odt])
+
+Here is a link to the odt ([odt]).
+
 [odt]: https://github.com/inls161/assignment-3-sanjkris/blob/be956b6d6df6a1f17dbf834ba078b6115309b113/justice.odt
-([md])
+
+Here is a link to the md ([md]).
+
 [md]: https://github.com/inls161/assignment-3-sanjkris/blob/be956b6d6df6a1f17dbf834ba078b6115309b113/justice.md
-([html])
+
+Here is a link to the html ([html]).
+
 [html]: https://github.com/inls161/assignment-3-sanjkris/blob/be956b6d6df6a1f17dbf834ba078b6115309b113/justice.html
-([docx])
+
+Here is a link to the docx ([docx]).
+
 [docx]: https://github.com/inls161/assignment-3-sanjkris/blob/be956b6d6df6a1f17dbf834ba078b6115309b113/justice.docx
-([editor])
+
+Here is a link to the editor ([editor]).
+
 [editor]: https://ide.c9.io/sanjkris/assignment3
 
-#Challenges
+Challenges:
+
 I had some challenges while completing this assignment. One was that I was not quite sure how to implement some of the markdown requirements. It took me a while to figure out how to correctly format the table. I also did not even know what smart quotes were at first, and I had to google them. It was a satisfying feeling once I figured these out, however. I have found that in this class, it may take me a while to figure something out, but once I do, it feels really good - work hard and get rewarded.
 
 
