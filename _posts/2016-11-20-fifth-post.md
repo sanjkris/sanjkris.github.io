@@ -11,3 +11,6 @@ Our script asks the user five questions about him or herself, assigns the user's
 
 Overall, I learned a lot about mysql and databases from completing this assignment.
 
+Link to my fork of the repository: ([repository])
+
+[repository]: https://github.com/sanjkris/octocat2
